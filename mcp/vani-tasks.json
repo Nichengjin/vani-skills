@@ -1,0 +1,7 @@
+{
+  "schemaVersion": 1,
+  "name": "vani-tasks",
+  "transport": "stdio",
+  "command": "tasks",
+  "args": ["mcp"]
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Use rws"
+  short_description: "Run local work safely on an SSH Linux host"
+  default_prompt: "Use $using-rws to run this repository task on my configured SSH target."
